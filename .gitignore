@@ -1,0 +1,39 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Bytecode Java (file hasil kompilasi)
+*.class
+
+# Log files
+*.log
+
+# Hasil build
+/build/
+/out/
+
+# Gradle Wrapper dan cache
+.gradle/
+
+# Hasil artefak (package files seperti JAR dan WAR)
+*.jar
+*.war
+*.ear
+
+# Setting file dari IDE (IntelliJ IDEA, Eclipse, VSCode)
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# Temporary files (file sementara)
+*.tmp
+*.bak
+*.swp
